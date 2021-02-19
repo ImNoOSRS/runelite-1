@@ -22,6 +22,6 @@ For more information visit the [RuneLite Wiki](https://github.com/runelite/runel
 
 RuneLite is licensed under the BSD 2-clause license. See the license header in the respective file to be sure.
 
-## Contribute and Develop
+## Contribute and Developpppp
 
 We've set up a separate document for our [contribution guidelines](https://github.com/runelite/runelite/blob/master/.github/CONTRIBUTING.md).
